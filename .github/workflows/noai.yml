@@ -1,6 +1,4 @@
   - name: NoAI Guardian
-  # You may pin to the exact commit or the version.
-  # uses: rahulraonatarajan/ai-guardian@1c450b7cba0ae4d3947d7b70b0515448f6bbb61d
   uses: rahulraonatarajan/ai-guardian@LLMs
   with:
     # Folder (relative to repo root) to scan
